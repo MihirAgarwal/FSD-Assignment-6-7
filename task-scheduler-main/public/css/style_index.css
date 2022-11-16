@@ -1,0 +1,83 @@
+body
+{
+    background-color:rgba(0, 0, 0, 0.99)
+}
+
+.main_input_box
+{   
+    width: 60%;
+    margin-left: auto;
+    margin-right:auto;
+    margin-top:4%;
+    text-align: center;
+    border-radius: 15px;
+    background-color:salmon
+}
+
+.Submit_tasks_heading
+{
+    padding-top: 3%;
+    font-size:30px;
+    margin-bottom: 5%;
+    color:darkturquoise;
+}
+
+.ips
+{
+    padding-bottom: 2%;
+}
+
+.task_bar
+{
+    width:75%;
+    margin-right: 10px;
+    border-radius: 10px;
+    height: 30px;
+    border:0px;
+}
+
+/* .btn
+{
+    border-radius: 5px;
+    border:0.5px solid black;
+    text-align: center;
+    background-color: #0096FF;
+    margin-left: 10px;
+    height: 30px;
+    width:15%;
+    color: #FFFFFF;
+    letter-spacing:1px;
+} */
+
+.tasks_div
+{
+    width:80%;
+    padding:10px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:lightgoldenrodyellow;
+    min-height: 10px;
+
+}
+
+.single_task
+{
+
+    margin-top: 2px;
+    margin-right:2px;
+    margin-left:2px;
+    border : 1px solid black;
+    border-radius: 10px;
+    height:50px;
+    background-color:burlywood;
+}
+
+.right_class
+{
+    float:right;
+    margin:10px;
+    text-align: center;
+    border : 1px solid black;
+    background-color: brown ;
+    border-radius: 3px;
+}

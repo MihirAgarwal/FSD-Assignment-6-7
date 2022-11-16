@@ -1,0 +1,72 @@
+body
+{
+    background-color:rgba(0, 0, 0, 0.99)
+}
+
+.main_div
+{
+    margin-top:10%;
+    width:600px;
+    height:200px;
+    border-radius: 5px;
+    margin-left:auto;
+    margin-right:auto;
+    background-color:rgba(250, 250, 250, 0.542);
+}
+
+.ID_div
+{
+    padding-top:3px;
+    text-align:center;
+}
+
+.task_div
+{
+    margin-left:10px;
+}
+
+.completed_div
+{
+    margin-left:10px;
+}
+
+.button_div
+{
+    padding-top:25px;
+    text-align: center;
+}
+
+.button
+{
+    width:80px;
+    height:25px;
+    background-color:greenyellow;
+    border:0.1px solid black;
+}
+
+.home_div
+{
+    text-align:center;
+}
+
+.home_button
+{
+    margin-top:30px;
+    width:200px;
+    height:50px;
+    background-color:brown;
+}
+
+.h5task
+{
+    display:table-cell;
+}
+
+.enter_task_name
+{
+    display: table-cell;
+    width: 200px;
+    display: block;
+    overflow: hidden;
+    border-radius: 3px;
+}
